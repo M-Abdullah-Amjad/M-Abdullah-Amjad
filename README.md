@@ -1,5 +1,7 @@
 # Hi there, I'm Muhammad Abdullah Amjad 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=M-Abdullah-Amjad&color=blueviolet&style=flat-square&label=Profile+Views)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-amjad-flutter-developer/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-AF40FF?style=flat&logo=kofi&logoColor=white)](https://m-abdullah-amjad-portfolio.netlify.app/)
 [![Fiverr Badge](https://img.shields.io/badge/-Hire%20Me%20on%20Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/m_abdullah_amja)
